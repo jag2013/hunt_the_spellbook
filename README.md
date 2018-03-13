@@ -1,5 +1,7 @@
 ## Hunt The Spellbook
 
+**Student:** Jason Holloway
+
 **Udacity Hide and Seek VR Project**
 
 **UE4 Version:** 4.15.3
