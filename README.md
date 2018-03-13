@@ -34,7 +34,7 @@ http://www.freepngimg.com/nature/smoke
 pop sound:
 https://freesound.org/people/josepharaoh99/sounds/378856/
 
-misc:
+misc sounds:
 https://freesound.org/people/xtrgamr/sounds/252785/
 https://freesound.org/people/qubodup/sounds/184599/
 https://freesound.org/people/BrainClaim/sounds/404482/
@@ -44,7 +44,7 @@ poof sounds
 https://freesound.org/people/Speedenza/sounds/168109/
 https://freesound.org/people/Speedenza/sounds/168180/
 
-magic success:
+magical sounding success sound:
 https://freesound.org/people/RICHERlandTV/sounds/216089/
 
 beginning or ending:
