@@ -1,5 +1,5 @@
 ﻿# Unreal Engine 4 VR Advanced Starter Project READ ME
-
+ 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [Learn Unreal VR Nanodegree Foundation Program](https://www.udacity.com)
 
 This is your first chance to build an Unreal VR experience based around locomotion. You’ll create a find-the-object style of game, create a set of blueprints that randomly hides an object, and develop a locomotion method that allows you to move around the apartment so that you can find the object.   
